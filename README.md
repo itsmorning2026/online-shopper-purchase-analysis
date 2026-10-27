@@ -9,6 +9,7 @@ Which browsing behaviors are linked to whether a session ends in a purchase? Thi
 - Size: 12,330 rows and 18 columns
 - Each row is one session (one visit to the website)
 - Overall purchase rate: 15.5%
+
 ## Methods
 - Tools: Python (pandas, matplotlib, scipy)
 - Summary numbers: median for Q1, because the data is right-skewed; purchase rate (%) for Q2 and Q3
@@ -74,7 +75,11 @@ These ideas should be tested first with an A/B test, one change at a time, since
 - The data comes from one online store, so the results may not apply to other stores.
 - The data was published in 2018. Online shopping habits may have changed since then.
 - Each session belongs to a different user, so we only see one visit per person. We can't see a shopper's earlier visits or how many times they came before buying.
+- Total time on site is only known after a visit ends, so it shows patterns but can't be used to predict buying in real time.
+
 
 ## How to run
 1. Download this project (on GitHub, click **Code → Download ZIP**) and unzip it.
-2. Install Python 3 and the packages:
+2. Install Python 3 and the packages: `pip install pandas matplotlib scipy`
+3. Open a terminal in the project folder and run: `python analysis.py`
+   The results will print in the terminal, and the charts will be saved in the `figures` folder.
