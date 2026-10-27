@@ -65,9 +65,8 @@ These ideas should be tested first with an A/B test, one change at a time, since
    - Finding: Sessions over 15 minutes had a purchase rate of 22.9%.
    - Idea: Try a reminder or a small discount for these visitors. Track revenue as well as purchase rate, because many of them might buy even without a discount.
 3. **Keep investing in new visitors, and learn why returning visitors buy less.** 
-   - Finding: New visitors bought more often than returning visitors (24.9% vs. 13.9%). Try a next-visit discount for first-time buyers, and look into why returning visitors buy less.
-   - Idea: For example, they may come back just to compare prices.
-
+   - Finding: New visitors bought more often than returning visitors (24.9% vs. 13.9%).
+   - Idea: Try a next-visit discount for first-time buyers, and look into why returning visitors buy less (for example, they may come back just to compare prices).
 
 
 ## Limitations
