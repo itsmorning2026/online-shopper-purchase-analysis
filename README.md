@@ -55,6 +55,21 @@ Yes. The longer a session lasted, the more likely it ended in a purchase.
 ![Bar chart of purchase rate by total time on site](figures/q3_duration_bar.png)
 
 
+## Recommendations
+These ideas should be tested first with an A/B test, one change at a time, since this analysis shows links, not causes.
+
+1. **Keep short visitors on the site.** 
+   - Finding: Sessions under 1 minute had a purchase rate of only 2.2%. 
+   - Idea: Check if pages load slowly, and make the landing page clearer so popular products are easy to find.
+2. **Help long visitors finish buying.** 
+   - Finding: Sessions over 15 minutes had a purchase rate of 22.9%.
+   - Idea: Try a reminder or a small discount for these visitors. Track revenue as well as purchase rate, because many of them might buy even without a discount.
+3. **Keep investing in new visitors, and learn why returning visitors buy less.** 
+   - Finding: New visitors bought more often than returning visitors (24.9% vs. 13.9%). Try a next-visit discount for first-time buyers, and look into why returning visitors buy less.
+   - Idea: For example, they may come back just to compare prices.
+
+
+
 ## Limitations
 - This analysis shows a link, not a cause. For example, we don't know if staying longer makes people buy, or if people who already plan to buy just stay longer.
 - The data comes from one online store, so the results may not apply to other stores.
